@@ -1,0 +1,4 @@
+1 iniciar o projeto node  npm init (criar package.json)
+2 instalar o express  npm i express
+3 instalar o dotenv npm i dotenv
+npm run dev -> rodar a aplicação 
